@@ -1,4 +1,3 @@
 #!/bin/bash
-echo "ALX"
-wq
+echo "ALX school is so cool!"
 
